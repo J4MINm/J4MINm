@@ -1,24 +1,11 @@
-## Hi, I'm Ebeth Mejia Chavez 👋
-
-<!--
-**J4MINm/J4MINm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Hi!, I'm EV3TH</a> <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30" /> </h2>
+<p align="center">
+</p>
 
 <div align="center">
   <a href="https://github.com/J4MINm">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=J4MINm&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4MINm&layout=compact&langs_count=7&theme=nord"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=J4MINm&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4MINm&layout=compact&langs_count=7&theme=nord"/>
 </div>
 
 ### My Stack
